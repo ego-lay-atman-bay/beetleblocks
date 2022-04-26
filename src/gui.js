@@ -2579,7 +2579,7 @@ IDE_Morph.prototype.snapMenu = function () {
         'Download source',
         function () {
             window.open(
-                'https://github.com/jmoenig/Snap/releases/latest',
+                'https://github.com/ego-lay-atman-bay/beetleblocks',
                 'SnapSource'
             );
         }
